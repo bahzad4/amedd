@@ -1,0 +1,37 @@
+body{
+    background: pink;
+    background-image: url("C:\Users\DelalPC\Desktop\download.jpg") ;
+}
+p{
+    border-style:solid;color:green ;
+}
+ul{
+    border-style:solid;
+}
+table{
+    border-style:dashed;  
+}
+.bold{
+    font-weight: bold;
+}
+a{
+    font-size:22px;
+    font-style: italic;
+    font-family: arial;
+    font-weight: bold;
+}
+iframe{
+     background-color: blue;
+}
+table{
+     position:absolute;
+     top:0px;
+     right:0px
+
+}
+.amed:hover{
+    color:red
+}
+.image{
+    border-radius: 50%;
+}
